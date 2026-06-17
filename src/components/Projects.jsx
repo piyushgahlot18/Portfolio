@@ -14,14 +14,14 @@ export default function Projects() {
       title: "Govindam Saarees",
       desc: "Your destination for elegant sarees, ethnic fashion, and timeless style.",
       tech: ["React.js", "Tailwind CSS"],
-      image: "./dist/sare.jpg",
+      image: "/sare.jpg",
       vercelUrl: "https://govindam-saarees.vercel.app/",
     },
     {
       title: "Smart Compressor",
       desc: "Compress images to an exact file size instantly — right in your browser.",
       tech: ["React.js", "Tailwind CSS"],
-      image: "./dist/compress.png",
+      image: "/compress.png",
       vercelUrl: "https://smart-compress.vercel.app/",
     },
   ];
